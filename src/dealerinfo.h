@@ -68,6 +68,7 @@ public:
         KlondikeDrawThreeId = 13,
         SpiderOneSuitId     = 14,
         SpiderTwoSuitId     = 15,
+        SpiderThreeSuitId   = 50,
         SpiderFourSuitId    = 16,
         SpiderGeneralId     = 17,
         KlondikeGeneralId   = 18,
