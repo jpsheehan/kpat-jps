@@ -517,6 +517,7 @@ public:
     {
         addSubtype( SpiderOneSuitId, kli18n( "Spider (1 Suit)" ) );
         addSubtype( SpiderTwoSuitId, kli18n( "Spider (2 Suit)" ) );
+        addSubtype( SpiderThreeSuitId, kli18n( "Spider (3 Suit)" ) );
         addSubtype( SpiderFourSuitId, kli18n( "Spider (4 Suit)" ) );
     }
 
