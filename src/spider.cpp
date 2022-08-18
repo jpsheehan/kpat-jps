@@ -140,7 +140,7 @@ void Spider::initialize()
     options->addAction( i18n("1 Suit (Easy)") );
     options->addAction( i18n("2 Suits (Medium)") );
     options->addAction( i18n("3 Suits (Hard)"));
-    options->addAction( i18n("4 Suits (Brutal)") );
+    options->addAction( i18n("4 Suits (Very Hard)") );
     if ( m_suits == 1 )
         options->setCurrentItem( 0 );
     else if ( m_suits == 2 )
